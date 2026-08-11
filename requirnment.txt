@@ -1,0 +1,15 @@
+pandas
+numpy
+requests
+python-dotenv
+yfinance
+spacy
+transformers
+torch
+tqdm
+scipy
+scikit-learn
+faiss-cpu
+sentence-transformers
+streamlit
+jupyter
